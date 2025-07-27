@@ -1,4 +1,4 @@
-<img width="906" height="510" alt="image" src="https://github.com/user-attachments/assets/c60329cb-7e27-42d0-9faa-6460d7c9c7b7" /># RedCodeResource
+# RedCodeResource
 📚 Citation
 This is a reproduction of the RedCode project. All credit goes to the original authors. If you find this work helpful, please cite the original paper:
 bibtex@article{guo2024redcode,
