@@ -1,4 +1,4 @@
-# RedCodeResource
+<img width="906" height="510" alt="image" src="https://github.com/user-attachments/assets/c60329cb-7e27-42d0-9faa-6460d7c9c7b7" /># RedCodeResource
 📚 Citation
 This is a reproduction of the RedCode project. All credit goes to the original authors. If you find this work helpful, please cite the original paper:
 bibtex@article{guo2024redcode,
@@ -10,3 +10,5 @@ bibtex@article{guo2024redcode,
 📝 About This Reproduction
 This repository is an unofficial reproduction of the RedCode benchmark by Guo et al. (2024). Due to the original project website (https://1mocat.github.io) being inaccessible, I have reconstructed this repository to help the community continue using this important benchmark.
 ⚠️ Disclaimer: This is not the official implementation. I am not affiliated with the original authors. Please refer to the original paper for authoritative information.
+<img width="906" height="510" alt="image" src="https://github.com/user-attachments/assets/87ff54b2-006c-48ba-a11d-c43a3b0ecc28" />
+
